@@ -7,11 +7,12 @@ Run it with:   python week1/hello.py
 """
 
 # TODO: print a greeting
+print("Hello")
 print("Greetings, Everyone")
 
 # TODO: create a variable with your name, and use it in a message
-name = ("Wisdom Amuzu")
+name = ("Wisdom Gbogbo")
 
 # TODO: try an f-string  ->  print(f"Hello, {name}!")
-my_message = ("Hello, Let's code")
+my_message = ("Let's code with ")
 print(my_message + name)
